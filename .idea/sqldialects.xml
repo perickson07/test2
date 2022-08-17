@@ -3,8 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$USER_HOME$/Desktop/DataGrip/test of gist/test 2.sql" dialect="PostgreSQL" />
     <file url="file://$USER_HOME$/Desktop/DataGrip/test of gist/test.sql" dialect="PostgreSQL" />
-    <file url="file://$USER_HOME$/Desktop/DataGrip/testing2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/a final test.sql" dialect="PostgreSQL" />
-    <file url="PROJECT" dialect="MySQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
